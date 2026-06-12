@@ -1,4 +1,4 @@
-# 🏢 Sistema Gerenciador de Listas Multi-Setoriais (Trabalho 1)
+# 🏢 Sistema Gerenciador de Listas Multi-Setoriais (Trabalho 2)
 
 Este projeto consiste em um sistema em linguagem C desenvolvido para a disciplina de Estruturas de Dados 1 na Universidade de Brasília (UnB). O programa simula o processamento e a unificação de bancos de dados de empresas de três setores distintos: Indústria, Comércio e Serviços.
 
